@@ -42,7 +42,7 @@ export GITHUB_TOKEN=<token>
 
 ## Example
 ```
-node index.js example/ipfs.conf.js -gs > example/ROADMAP.md
+node index.js example/dialogware.conf.js -gs > example/ROADMAP.md
 ```
 
 ## License

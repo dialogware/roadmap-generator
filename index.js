@@ -59,6 +59,7 @@ const symbols = {
 
 /* GITHUB */
 
+
 // Github token
 const token = process.env.GITHUB_TOKEN || argv._[1] || null
 if(!token) {
