@@ -2,9 +2,12 @@
 
 > Generate Markdown roadmap files based on Github Issues and Milestone
 
+
 *Currently uses Github Milestones as milestones and Github Issues as goals*
 
-Check the [example roadmap](https://github.com/haadcode/roadmap-generator/blob/master/example/ROADMAP.md#ipfs-roadmap)
++ [dialogware/roadmap: roadmap.dialogware.com](https://github.com/dialogware/roadmap)
++ [example roadmap](https://github.com/haadcode/roadmap-generator/blob/master/example/ROADMAP.md#ipfs-roadmap)
+
 ## Install
 ```
 git clone https://github.com/haadcode/roadmap-generator
