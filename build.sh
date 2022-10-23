@@ -25,4 +25,5 @@ echo "[build-roadmaps]: Building dialogware roadmap"
 node index.js input/dialogware.conf.js -gsp > output/ROADMAP.md
 outputEmoji
 sleep 3
-
+## udpate documentation
+cp output/ROADMAP.md ../roadmap/DOCS/ROADMAP.md

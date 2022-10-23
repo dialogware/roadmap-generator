@@ -2,7 +2,7 @@
 
 This document describes the current status and the upcoming milestones of the dialogware project.
 
-*Updated: Fri, 21 Oct 2022 15:11:50 GMT*
+*Updated: Sun, 23 Oct 2022 10:23:20 GMT*
 
 #### Milestone Summary
 
@@ -40,6 +40,14 @@ This document describes the current status and the upcoming milestones of the di
 | ❌ | [Newsletter for DIALOGWARE partners](https://github.com/dialogware/www/issues/4) | | <a href=https://github.com/dialogware/www>dialogware/www</a> |
 
 
+#### Integration
+
+> Integration with another marketplaces and cloud providers
+
+🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**0 / 0** goals completed **(0%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Sat Jul 01 2023**
+
+| Status | Goal | Labels | Repository |
+| :---: | :--- | --- | --- |
 
 
 
