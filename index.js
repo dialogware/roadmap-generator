@@ -184,7 +184,8 @@ function generateMilestonesSummary(project, options) {
     milestone += `| **[${m.title}](#${nameToAnchor(m.title)})** `
 
     if(opts.useVisualProgressBars)
-      milestone += `| ![Progress](http://progressed.io/bar/${progressPercentage}) `
+      //milestone += `| ![Progress](http://progressed.io/bar/${progressPercentage}) `
+      milestone += `| (${progressPercentage} / 100) % `
     else
       milestone += `| ${m.closed_issues} / ${m.total_issues} `
 
